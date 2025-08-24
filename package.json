@@ -8,6 +8,7 @@
   },
   "scripts": {
     "start": "npx http-server -p 3000",
+    "test:headed": "npx playwright test --headed" ,
     "test": "npx playwright test"
   }
 }

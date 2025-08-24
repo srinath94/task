@@ -1,4 +1,4 @@
-import { CounterPage } from "../pages/counterPage";
+import { CounterPage } from "../pages/counterPage"; 
 import { test as base } from "@playwright/test";
 
 type Fixtures = {
